@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Nodari Latsabidze 👋
 
-<!--
-**nlatsabidze-hw/nlatsabidze-hw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Electronics & Hardware Engineer based in Brooklyn, NY.
+I build embedded systems, automation tools, and IoT solutions.
 
-Here are some ideas to get you started:
+## 🔧 Skills
+- Microcontrollers: ESP32, Arduino
+- Protocols: I2C, SPI, UART
+- Cloud & IoT: Blynk, Supabase
+- Web: PWA, JavaScript, HTML/CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+- **Warehouse Door Control System** — Remote control of 4 loading doors via ESP32, relay modules, Blynk cloud, and a PWA with Supabase authentication
+- **Smart Greenhouse** — Automated irrigation and monitoring using Arduino and ultrasonic sensors
+- **Cement Plant Dosing System** — Industrial automation for precise material dosing
+
+## 📫 Contact
+- LinkedIn: [nodari-latsabidze](https://www.linkedin.com/in/nodari-latsabidze-a31663228)
